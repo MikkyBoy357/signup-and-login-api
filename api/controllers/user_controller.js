@@ -124,5 +124,4 @@ exports.user_post_delete = function (req, res, next) {
       })
     }
   })
-
 }
